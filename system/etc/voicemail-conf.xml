@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voicemail>
+   <voicemail numeric="46689" carrier="VIBO" vmnumber="777" vmtag="Voicemail" />
+   <voicemail numeric="46601" carrier="Far EasTone" vmnumber="222" vmtag="Voicemail" />
+   <voicemail numeric="46692" carrier="Chunghwa Telecom" vmnumber="777" vmtag="Voicemail" />
+   <voicemail numeric="46697" carrier="Taiwan Mobile" vmnumber="123" vmtag="Voicemail" />
+   <voicemail numeric="25704" carrier="Life" vmnumber="985" vmtag="Voicemail" />
+</voicemail>
